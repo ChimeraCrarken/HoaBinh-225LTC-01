@@ -1,0 +1,14 @@
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\bin\Debug\net8.0\Bai5_BTMang.exe
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\bin\Debug\net8.0\Bai5_BTMang.deps.json
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\bin\Debug\net8.0\Bai5_BTMang.runtimeconfig.json
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\bin\Debug\net8.0\Bai5_BTMang.dll
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\bin\Debug\net8.0\Bai5_BTMang.pdb
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\obj\Debug\net8.0\Bai5_BTMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\obj\Debug\net8.0\Bai5_BTMang.AssemblyInfoInputs.cache
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\obj\Debug\net8.0\Bai5_BTMang.AssemblyInfo.cs
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\obj\Debug\net8.0\Bai5_BTMang.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\obj\Debug\net8.0\Bai5_BTMang.dll
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\obj\Debug\net8.0\refint\Bai5_BTMang.dll
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\obj\Debug\net8.0\Bai5_BTMang.pdb
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\obj\Debug\net8.0\Bai5_BTMang.genruntimeconfig.cache
+D:\Visual_Studio\project\225LTC#01\Bai5_BTMang\Bai5_BTMang\obj\Debug\net8.0\ref\Bai5_BTMang.dll

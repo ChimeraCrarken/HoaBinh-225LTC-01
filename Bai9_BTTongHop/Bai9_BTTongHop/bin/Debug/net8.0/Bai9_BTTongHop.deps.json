@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai9_BTTongHop/1.0.0": {
+        "runtime": {
+          "Bai9_BTTongHop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai9_BTTongHop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

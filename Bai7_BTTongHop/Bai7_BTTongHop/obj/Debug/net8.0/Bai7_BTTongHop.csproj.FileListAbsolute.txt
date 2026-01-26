@@ -1,0 +1,14 @@
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\bin\Debug\net8.0\Bai7_BTTongHop.exe
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\bin\Debug\net8.0\Bai7_BTTongHop.deps.json
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\bin\Debug\net8.0\Bai7_BTTongHop.runtimeconfig.json
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\bin\Debug\net8.0\Bai7_BTTongHop.dll
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\bin\Debug\net8.0\Bai7_BTTongHop.pdb
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\obj\Debug\net8.0\Bai7_BTTongHop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\obj\Debug\net8.0\Bai7_BTTongHop.AssemblyInfoInputs.cache
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\obj\Debug\net8.0\Bai7_BTTongHop.AssemblyInfo.cs
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\obj\Debug\net8.0\Bai7_BTTongHop.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\obj\Debug\net8.0\Bai7_BTTongHop.dll
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\obj\Debug\net8.0\refint\Bai7_BTTongHop.dll
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\obj\Debug\net8.0\Bai7_BTTongHop.pdb
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\obj\Debug\net8.0\Bai7_BTTongHop.genruntimeconfig.cache
+D:\Visual_Studio\project\225LTC#01\Bai7_BTTongHop\Bai7_BTTongHop\obj\Debug\net8.0\ref\Bai7_BTTongHop.dll

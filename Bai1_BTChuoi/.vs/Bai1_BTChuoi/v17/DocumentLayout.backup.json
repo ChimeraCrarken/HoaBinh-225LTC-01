@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Visual_Studio\\project\\225LTC#01\\Bai1_BTChuoi\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\HoaBinh-225LTC-01\\Bai1_BTChuoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04CCF841-B2C3-4237-B399-0D9DB9BA4920}|Bai1_BTChuoi\\Bai1_BTChuoi.csproj|d:\\visual_studio\\project\\225ltc#01\\bai1_btchuoi\\bai1_btchuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04CCF841-B2C3-4237-B399-0D9DB9BA4920}|Bai1_BTChuoi\\Bai1_BTChuoi.csproj|c:\\users\\lenovo\\documents\\github\\hoabinh-225ltc-01\\bai1_btchuoi\\bai1_btchuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04CCF841-B2C3-4237-B399-0D9DB9BA4920}|Bai1_BTChuoi\\Bai1_BTChuoi.csproj|solutionrelative:bai1_btchuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Visual_Studio\\project\\225LTC#01\\Bai1_BTChuoi\\Bai1_BTChuoi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\GitHub\\HoaBinh-225LTC-01\\Bai1_BTChuoi\\Bai1_BTChuoi\\Program.cs",
               "RelativeDocumentMoniker": "Bai1_BTChuoi\\Program.cs",
-              "ToolTip": "D:\\Visual_Studio\\project\\225LTC#01\\Bai1_BTChuoi\\Bai1_BTChuoi\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\GitHub\\HoaBinh-225LTC-01\\Bai1_BTChuoi\\Bai1_BTChuoi\\Program.cs",
               "RelativeToolTip": "Bai1_BTChuoi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T06:38:22.248Z",
               "EditorCaption": ""

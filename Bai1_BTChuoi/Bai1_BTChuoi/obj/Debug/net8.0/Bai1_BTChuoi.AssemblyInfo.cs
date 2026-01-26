@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai1_BTChuoi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79190e7d02566ba7c15f1520bffe1e24f115c231")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai1_BTChuoi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai1_BTChuoi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

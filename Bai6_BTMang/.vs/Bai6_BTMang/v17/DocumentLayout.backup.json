@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual_Studio\\project\\225LTC#01\\Bai6_BTMang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22EBAF9A-BB39-4CBF-A5CB-4BC9E8001E32}|Bai6_BTMang\\Bai6_BTMang.csproj|d:\\visual_studio\\project\\225ltc#01\\bai6_btmang\\bai6_btmang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EBAF9A-BB39-4CBF-A5CB-4BC9E8001E32}|Bai6_BTMang\\Bai6_BTMang.csproj|solutionrelative:bai6_btmang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\project\\225LTC#01\\Bai6_BTMang\\Bai6_BTMang\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6_BTMang\\Program.cs",
+              "ToolTip": "D:\\Visual_Studio\\project\\225LTC#01\\Bai6_BTMang\\Bai6_BTMang\\Program.cs",
+              "RelativeToolTip": "Bai6_BTMang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:10:45.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual_Studio\\project\\225LTC#01\\Bai1_BTChuoi\\Bai1_BTChuoi\\Bai1_BTChuoi.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\HoaBinh-225LTC-01\\Bai1_BTChuoi\\Bai1_BTChuoi\\Bai1_BTChuoi.csproj",
       "projectName": "Bai1_BTChuoi",
-      "projectPath": "D:\\Visual_Studio\\project\\225LTC#01\\Bai1_BTChuoi\\Bai1_BTChuoi\\Bai1_BTChuoi.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\HoaBinh-225LTC-01\\Bai1_BTChuoi\\Bai1_BTChuoi\\Bai1_BTChuoi.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual_Studio\\project\\225LTC#01\\Bai1_BTChuoi\\Bai1_BTChuoi\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\HoaBinh-225LTC-01\\Bai1_BTChuoi\\Bai1_BTChuoi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
