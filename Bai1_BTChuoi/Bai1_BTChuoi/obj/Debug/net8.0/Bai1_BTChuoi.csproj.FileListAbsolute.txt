@@ -1,0 +1,14 @@
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\bin\Debug\net8.0\Bai1_BTChuoi.exe
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\bin\Debug\net8.0\Bai1_BTChuoi.deps.json
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\bin\Debug\net8.0\Bai1_BTChuoi.runtimeconfig.json
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\bin\Debug\net8.0\Bai1_BTChuoi.dll
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\bin\Debug\net8.0\Bai1_BTChuoi.pdb
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\obj\Debug\net8.0\Bai1_BTChuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\obj\Debug\net8.0\Bai1_BTChuoi.AssemblyInfoInputs.cache
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\obj\Debug\net8.0\Bai1_BTChuoi.AssemblyInfo.cs
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\obj\Debug\net8.0\Bai1_BTChuoi.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\obj\Debug\net8.0\Bai1_BTChuoi.dll
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\obj\Debug\net8.0\refint\Bai1_BTChuoi.dll
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\obj\Debug\net8.0\Bai1_BTChuoi.pdb
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\obj\Debug\net8.0\Bai1_BTChuoi.genruntimeconfig.cache
+D:\Visual_Studio\project\225LTC#01\Bai1_BTChuoi\Bai1_BTChuoi\obj\Debug\net8.0\ref\Bai1_BTChuoi.dll
