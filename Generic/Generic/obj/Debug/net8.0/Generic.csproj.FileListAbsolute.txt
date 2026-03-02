@@ -1,0 +1,14 @@
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\bin\Debug\net8.0\Generic.exe
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\bin\Debug\net8.0\Generic.deps.json
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\bin\Debug\net8.0\Generic.runtimeconfig.json
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\bin\Debug\net8.0\Generic.dll
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\bin\Debug\net8.0\Generic.pdb
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\obj\Debug\net8.0\Generic.dll
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\obj\Debug\net8.0\refint\Generic.dll
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\obj\Debug\net8.0\Generic.pdb
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+D:\Visual_Studio\project\225LTC#01\Generic\Generic\obj\Debug\net8.0\ref\Generic.dll
