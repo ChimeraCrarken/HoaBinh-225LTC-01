@@ -1,0 +1,14 @@
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\bin\Debug\net8.0\Bai7_LINQ.exe
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\bin\Debug\net8.0\Bai7_LINQ.deps.json
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\bin\Debug\net8.0\Bai7_LINQ.runtimeconfig.json
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\bin\Debug\net8.0\Bai7_LINQ.dll
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\bin\Debug\net8.0\Bai7_LINQ.pdb
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\obj\Debug\net8.0\Bai7_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\obj\Debug\net8.0\Bai7_LINQ.AssemblyInfoInputs.cache
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\obj\Debug\net8.0\Bai7_LINQ.AssemblyInfo.cs
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\obj\Debug\net8.0\Bai7_LINQ.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\obj\Debug\net8.0\Bai7_LINQ.dll
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\obj\Debug\net8.0\refint\Bai7_LINQ.dll
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\obj\Debug\net8.0\Bai7_LINQ.pdb
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\obj\Debug\net8.0\Bai7_LINQ.genruntimeconfig.cache
+D:\Visual_Studio\project\225LTC#01\Bai7_LINQ\Bai7_LINQ\obj\Debug\net8.0\ref\Bai7_LINQ.dll
