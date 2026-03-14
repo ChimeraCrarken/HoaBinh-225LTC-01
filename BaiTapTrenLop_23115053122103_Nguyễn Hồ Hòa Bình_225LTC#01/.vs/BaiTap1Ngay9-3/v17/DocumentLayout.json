@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual_Studio\\project\\225LTC#01\\BaiTapTrenLop_23115053122103_Nguy\u1EC5n H\u1ED3 H\u00F2a B\u00ECnh_225LTC#01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{218CFA4F-C5BF-4DCD-BFC1-A5E7303444E2}|BaiTap1Ngay9-3\\BaiTap1Ngay9-3.csproj|d:\\visual_studio\\project\\225ltc#01\\baitaptrenlop_23115053122103_nguy\u1EC5n h\u1ED3 h\u00F2a b\u00ECnh_225ltc#01\\baitap1ngay9-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218CFA4F-C5BF-4DCD-BFC1-A5E7303444E2}|BaiTap1Ngay9-3\\BaiTap1Ngay9-3.csproj|solutionrelative:baitap1ngay9-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218CFA4F-C5BF-4DCD-BFC1-A5E7303444E2}|BaiTap1Ngay9-3\\BaiTap1Ngay9-3.csproj|d:\\visual_studio\\project\\225ltc#01\\baitaptrenlop_23115053122103_nguy\u1EC5n h\u1ED3 h\u00F2a b\u00ECnh_225ltc#01\\baitap1ngay9-3\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218CFA4F-C5BF-4DCD-BFC1-A5E7303444E2}|BaiTap1Ngay9-3\\BaiTap1Ngay9-3.csproj|solutionrelative:baitap1ngay9-3\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\project\\225LTC#01\\BaiTapTrenLop_23115053122103_Nguy\u1EC5n H\u1ED3 H\u00F2a B\u00ECnh_225LTC#01\\BaiTap1Ngay9-3\\SinhVien.cs",
+              "RelativeDocumentMoniker": "BaiTap1Ngay9-3\\SinhVien.cs",
+              "ToolTip": "D:\\Visual_Studio\\project\\225LTC#01\\BaiTapTrenLop_23115053122103_Nguy\u1EC5n H\u1ED3 H\u00F2a B\u00ECnh_225LTC#01\\BaiTap1Ngay9-3\\SinhVien.cs",
+              "RelativeToolTip": "BaiTap1Ngay9-3\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:11:00.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual_Studio\\project\\225LTC#01\\BaiTapTrenLop_23115053122103_Nguy\u1EC5n H\u1ED3 H\u00F2a B\u00ECnh_225LTC#01\\BaiTap1Ngay9-3\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap1Ngay9-3\\Program.cs",
+              "ToolTip": "D:\\Visual_Studio\\project\\225LTC#01\\BaiTapTrenLop_23115053122103_Nguy\u1EC5n H\u1ED3 H\u00F2a B\u00ECnh_225LTC#01\\BaiTap1Ngay9-3\\Program.cs",
+              "RelativeToolTip": "BaiTap1Ngay9-3\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:50:27.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

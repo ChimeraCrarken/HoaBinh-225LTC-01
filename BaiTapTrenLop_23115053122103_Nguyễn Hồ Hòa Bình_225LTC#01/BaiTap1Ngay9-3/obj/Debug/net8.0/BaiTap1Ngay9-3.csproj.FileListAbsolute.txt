@@ -1,0 +1,28 @@
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.AssemblyInfoInputs.cache
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.AssemblyInfo.cs
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.exe
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.deps.json
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.runtimeconfig.json
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.dll
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.pdb
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.dll
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\obj\Debug\net8.0\refint\BaiTap1Ngay9-3.dll
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.pdb
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.genruntimeconfig.cache
+D:\Visual_Studio\project\225LTC#01\BaiTap1Ngay9-3\BaiTap1Ngay9-3\obj\Debug\net8.0\ref\BaiTap1Ngay9-3.dll
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.exe
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.deps.json
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.runtimeconfig.json
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.dll
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\bin\Debug\net8.0\BaiTap1Ngay9-3.pdb
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.AssemblyInfoInputs.cache
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.AssemblyInfo.cs
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.dll
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\obj\Debug\net8.0\refint\BaiTap1Ngay9-3.dll
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.pdb
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\obj\Debug\net8.0\BaiTap1Ngay9-3.genruntimeconfig.cache
+D:\Visual_Studio\project\225LTC#01\BaiTapTrenLop_23115053122103_Nguyễn Hồ Hòa Bình_225LTC#01\BaiTap1Ngay9-3\obj\Debug\net8.0\ref\BaiTap1Ngay9-3.dll
